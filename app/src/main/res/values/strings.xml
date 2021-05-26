@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pokemon_name_label">Pokemon name</string>
+    <string name="expand">Expand</string>
+    <string name="search">Search</string>
+    <string name="pokemon_image">Pokemon Image</string>
+    <string name="moves">Moves</string>
+    <string name="types">Types</string>
+    <string name="stats">Stats</string>
+    <string name="experience">%s XP</string>
+    <string name="pokeball">Pokeball</string>
+</resources>
